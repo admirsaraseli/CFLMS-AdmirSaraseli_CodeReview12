@@ -1,0 +1,33 @@
+.parallax_section3 {
+    height: 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 100%;
+    position: relative; }
+  
+.parallax_section4 {
+    height: 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 100%;
+    position: relative; }
+
+
+.parallax_image3 {
+    background-image: url(img/2.jpg); }
+  
+.parallax_image4 {
+    background-image: url(img/5.jpg); }
+  
+.parallax_image5 {
+    background-image: url(img/1.jpg); }
+  
+.parallax_image6 {
+    background-image: url(img/6.jpg); }
+
+body {
+    background-image: url(img/blog.jpg);
+    background-size: cover; 
+}
